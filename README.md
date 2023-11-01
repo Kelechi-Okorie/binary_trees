@@ -18,3 +18,4 @@ File 14-binary_tree_balance.c - measures the balance factor of a binary tree
 File 15-binary_tree_is_full.c - checks if a binary tree is full  
 File 16-binary_tree_is_perfect.c - checks if a binary tree is perfect 
 File 17-binary_tree_sibling.c - finds the sibling of a node   
+File 18-binary_tree_uncle.c - finds the uncle of a given node  
