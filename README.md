@@ -13,3 +13,4 @@ File 9-binary_tree_height.c - returns height of binary tree
 File 10-binary_tree_depth.c - returns the depth of a node in a binary tree  
 File 11-binary_tree_size.c returns the size of a binary tree  
 File 12-binary_tree_leaves.c - counts the leaves in a binary tree  
+File 13-binary_tree_nodes - counts the number of non-leave nodes  
