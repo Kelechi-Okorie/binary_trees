@@ -16,4 +16,5 @@ File 12-binary_tree_leaves.c - counts the leaves in a binary tree
 File 13-binary_tree_nodes.c - counts the number of non-leave nodes  
 File 14-binary_tree_balance.c - measures the balance factor of a binary tree  
 File 15-binary_tree_is_full.c - checks if a binary tree is full  
-File 16-binary_tree_is_perfect.c - checks if a binary tree is perfect  
+File 16-binary_tree_is_perfect.c - checks if a binary tree is perfect 
+File 17-binary_tree_sibling.c - finds the sibling of a node   
