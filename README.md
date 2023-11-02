@@ -19,3 +19,4 @@ File 15-binary_tree_is_full.c - checks if a binary tree is full
 File 16-binary_tree_is_perfect.c - checks if a binary tree is perfect 
 File 17-binary_tree_sibling.c - finds the sibling of a node   
 File 18-binary_tree_uncle.c - finds the uncle of a given node  
+File 100-binary_tree_ancestor.c - finds the lowest common ancestor of 2 nodes
